@@ -1,0 +1,6 @@
+{
+  "name": "مواصفات وتصميم ميزة الدردشة الداخلية للهاتف المحمول",
+  "description": "وثيقة مواصفات تصميمية وهندسية وتجربة مستخدم (UX/UI Spec) لميزة الدردشة الفورية داخل التطبيق مع نموذج محاكاة تفاعلي حي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
